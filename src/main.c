@@ -16,8 +16,6 @@ int main(int argc, char *argv[]) {
     str2 = (char *) calloc(length, sizeof(*str2));
     strcpyP(str1, "xlksf98se7fsdflwe9");
     strcpyP(str2, "ksf98se-7");
-    // strcpyP(str1, "Vidan trenutno zna samo Javu.");
-    // strcpyP(str2, " A voleo bi da nauci i programski jezik C.");
     // temp = str1;
     printf("s1 ---> %s (%u)\n", str1, str1);
     /* for (i = 0; i < length; i++) {

@@ -1,7 +1,5 @@
 
 #include <stddef.h>
-#include <stdio.h>
-#include <stdlib.h>
 
 size_t strlenP(const char *string) {
     size_t length = 0;
@@ -22,7 +20,7 @@ char *strcpyP(char *dest, const char *src) {
         if (*src == '\0') {
             *dest = '\0';
             dest -= steps;
-            src -= steps;
+            // src -= steps;
             break;
         }
     }

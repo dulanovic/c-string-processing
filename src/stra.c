@@ -1,7 +1,5 @@
 
 #include <stddef.h>
-#include <stdio.h>
-#include <stdlib.h>
 
 size_t strlenA(const char string[]) {
     size_t length = 0;

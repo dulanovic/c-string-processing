@@ -19,16 +19,8 @@ D:/Projects/C/String-Processing/src/string.h
 D:/Projects/C/String-Processing/src/stra.c
 stddef.h
 -
-stdio.h
--
-stdlib.h
--
 
 D:/Projects/C/String-Processing/src/strp.c
 stddef.h
--
-stdio.h
--
-stdlib.h
 -
 

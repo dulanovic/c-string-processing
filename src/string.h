@@ -1,6 +1,6 @@
 
-#ifndef STRING_PROCESSING_STRING_H
-#define STRING_PROCESSING_STRING_H
+#ifndef STRING_PROCESSING_H
+#define STRING_PROCESSING_H
 
 size_t strlenP(const char *string);
 size_t strlenA(const char string[]);
