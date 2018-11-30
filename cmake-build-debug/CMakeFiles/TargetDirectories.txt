@@ -1,0 +1,3 @@
+D:/Projects/C/String-Processing/cmake-build-debug/CMakeFiles/String_Processing.dir
+D:/Projects/C/String-Processing/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/C/String-Processing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
